@@ -1,0 +1,105 @@
+@import "utils/vars";
+@import "fonts.scss";
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: $mainFont;
+  font-size: $mainFontSize;
+  font-weight: $mainFontWeight;
+  height: 100vh;
+  background: url(@/assets/img/background-min.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-blend-mode: color-dodge;
+  background-color: rgba(245, 245, 247, 0.8);
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+  /* ширина всей полосы прокрутки */
+}
+
+::-webkit-scrollbar-track {
+  background: #f5f5f7;
+  /* цвет зоны отслеживания */
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #f44837;
+  /* цвет бегунка */
+  border-radius: 12px;
+  /* округлось бегунка */
+}
+
+input,
+textarea,
+select,
+button {
+  border: 1px solid $border-base;
+  background: transparent;
+  outline: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul,
+li {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+@mixin media($size) {
+  @media (max-width: #{$size}px) {
+    @content;
+  }
+}
+
+.container {
+  max-width: 1320px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+@include media(1440) {
+  .container {
+    max-width: 1120px;
+  }
+}
+
+@include media(1220) {
+  .container {
+    max-width: 1020px;
+  }
+}
+
+@include media(1080) {
+  .container {
+    max-width: 920px;
+  }
+}
+
+@include media(950) {
+  .container {
+    max-width: 100%;
+  }
+}
+
+a {
+  color: $colorFF6633;
+
+  &:hover {
+    color: $colorFA4F16;
+  }
+}
+
+@import "./common.scss";

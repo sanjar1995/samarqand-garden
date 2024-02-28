@@ -1,0 +1,140 @@
+{
+  "locale": {
+    "en": "EN",
+    "ru": "РУ",
+    "uz": "UZ"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "equipment": "Our equipment",
+    "basket": "Basket",
+    "search": "Search..."
+  },
+  "product": {
+    "kg": "kg",
+    "priceKg": "Weight: {price} uzs / 1 kg",
+    "currency": "uzs",
+    "currencyOneKg": "uzs / 1 kg",
+    "total": "Total: ",
+    "notAvailable": "Not available",
+    "addSuccess": "added to cart",
+    "addDelete": "removed from cart",
+    "notAmount": "Not enough {product} in stock!",
+    "amountInStock": "Only {amount} kg left"
+  },
+  "slider": {
+    "slide_one": {
+      "title": "Fruits",
+      "descr": "The best fruits only with us"
+    },
+    "slide_two": {
+      "title": "Vegetables",
+      "descr": "The best vegetables only with us"
+    },
+    "slide_three": {
+      "title": "Dried fruits",
+      "descr": "The best dried fruits only with us"
+    }
+  },
+  "about": {
+    "slide_one": {
+      "title": "About company",
+      "descr": "The Uzbek-British joint venture «Samarkand Garden Plast» LLC was established in 2013 in the Bulungur district of the Samarkand region of the Republic of Uzbekistan. JV LLC «Samarkand Garden Plast» is one of the largest agricultural holdings that specializes in growing, processing, canning, freezing and storage of fruits and vegetables in the Republic of Uzbekistan. The company employs 300 people, and we usually increase the number of employees to 1000 during the active harvest period."
+    },
+    "slide_two": {
+      "title": "Intensive Gardens",
+      "descr": "The total area of orchards is ~ 2000 ha. The area of finished orchards is ~ 970 ha. Drip irrigation throughout the gardens. Peach, cherry and cherry. Commercial varieties of fruit trees from Italy and Greece. Virus-free rootstock - seedlings are resistant to viral diseases"
+    },
+    "slide_three": {
+      "title": "«EAST AGRO INTERNATIONAL» LLC",
+      "descr": "One of the leading activities of our agricultural holding is the production of canned products on the basis of the production enterprise «EAST AGRO INTERNATIONAL» LLC (Shakhrisabz). The production capacity of our company is about 8 million cans per season. We produce canned products in cans and glass jars: peach halves in syrup, gherkins, tomatoes, mixes of gherkins and tomatoes (cherries), as well as jam mixtures, compotes, apple, peach and apricot puree, tomato paste."
+    }
+  },
+  "equipment": {
+    "title": "Our equipment",
+    "octafrost": "Octafrost equipment for shock freezing 2 pieces ",
+    "unitech": "Unitech cherry sorter",
+    "tomra": "Tomra optical sorter",
+    "frostcam": "Refrigerators for 4000 tons"
+  },
+  "notFound": {
+    "title": "404",
+    "sub": "Page not found",
+    "back": "Home page"
+  },
+  "basket": {
+    "title": "Basket",
+    "empty": "Cart is empty",
+    "left-title": "Personal data",
+    "lable-name": "Name*",
+    "plc-name": "AbdulMalik",
+    "input-name": "Enter your name",
+    "input-phone": "Enter phone number",
+    "input-payment": "Choose payment type",
+    "lable-phone": "Telephone*",
+    "payment-title": "Payment method",
+    "delivery-title": "Pickup",
+    "delivery-sub": "Contact for clarification of the delivery address:",
+    "item-weight": "Weight: {weight} KG",
+    "total-title": "Total:",
+    "total-button": "Checkout",
+    "verify-title": "Confirmation",
+    "verify-text": "Enter the 6 digit code sent to your mobile number",
+    "verify-continue": "Continue",
+    "verify-retry": "Resend"
+  },
+  "footer": {
+    "contact": "Contacts for communication",
+    "network": "We are in social networks",
+    "creator": "All rights reserved"
+  },
+  "authJs": {
+    "sucSendCode": "A code has been sent to your number!",
+    "errSendCode": "Code not sent, please try again!",
+    "sucOrder": "Your order is accepted!",
+    "errCode": "Invalid code entered!",
+    "errClient": "Authorization error, please try again!"
+  },
+  "products": {
+    "title": "our products",
+    "fresh": "fresh products",
+    "frozen": "frozen products",
+    "fresh_products": {
+      "sweet_pepper": "sweet pepper",
+      "plum": "plum",
+      "cayenne_pepper": "cayenne pepper",
+      "broccoli": "broccoli",
+      "brussels_sprouts": "brussels sprouts",
+      "melon": "melon",
+      "figs": "figs",
+      "onion": "onion",
+      "сarrot": "сarrot",
+      "cucumbers": "cucumbers",
+      "peach": "peach",
+      "romanesco": "romanesco",
+      "cauliflower": "cauliflower",
+      "cherry": "cherry",
+      "spinach": "spinach"
+    },
+    "frozen_products": {
+      "bulgarian_red": "bulgarian red",
+      "bell_pepper_cube": "bell pepper cube",
+      "bell_pepper_strip": "bell pepper strip",
+      "broccoli": "broccoli",
+      "brussels_sprouts": "brussels sprouts",
+      "cherry": "cherry",
+      "corn": "corn",
+      "onion": "onion",
+      "onion_cube": "onion cube",
+      "carrot_cube": "carrot cube",
+      "peach": "peach",
+      "peach_cube": "peach cube",
+      "sweet_pepper": "sweet pepper",
+      "plum": "plum",
+      "jandeau_asparagus": "jandeau asparagus",
+      "cauliflower": "cauliflower",
+      "cherries": "cherries"
+    }
+  }
+}

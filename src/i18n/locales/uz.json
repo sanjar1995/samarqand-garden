@@ -1,0 +1,140 @@
+{
+  "locale": {
+    "en": "EN",
+    "ru": "РУ",
+    "uz": "UZ"
+  },
+  "nav": {
+    "home": "Bosh Sahifa",
+    "about": "Biz Haqimizda",
+    "equipment": "Bizning jihozlarimiz",
+    "basket": "Savat",
+    "search": "Qidirish..."
+  },
+  "product": {
+    "kg": "kg",
+    "priceKg": "Og'irligi: {price} soʻm / 1 kg",
+    "currency": "soʻm",
+    "currencyOneKg": "soʻm / 1 kg",
+    "total": "Jami: ",
+    "notAvailable": "Mavjud emas",
+    "addSuccess": "savatga qoʻshildi",
+    "addDelete": "savatdan olib tashlangan",
+    "notAmount": "Zahirada etarlikcha {product} yoq!",
+    "amountInStock": "Bor yoʻgi {amount} kg qoldi"
+  },
+  "slider": {
+    "slide_one": {
+      "title": "Mevalar",
+      "descr": "Eng mazali mevalar faqat bizda"
+    },
+    "slide_two": {
+      "title": "Sabzavotlar",
+      "descr": "Eng mazali sabzavotlar faqat bizda"
+    },
+    "slide_three": {
+      "title": "Quritilgan mevalar",
+      "descr": "Eng mazali quritilgan mevalar faqat bizda"
+    }
+  },
+  "equipment": {
+    "title": "Bizning jihozlarimiz",
+    "octafrost": "Shok muzlatish uchun Octafrost uskunasi 2 dona",
+    "unitech": "Unitech olcha saralovchi",
+    "tomra": "Tomra optik saralovchi",
+    "frostcam": "4000 tonna uchun muzlatgichlar"
+  },
+  "about": {
+    "slide_one": {
+      "title": "Kompaniya haqida",
+      "descr": "«Samarkand Garden Plast» MChJ O‘zbekiston-Buyuk Britaniya qo‘shma korxonasi 2013-yilda O‘zbekiston Respublikasi Samarqand viloyati Bulung‘ur tumanida tashkil etilgan. «Samarkand Garden Plast» MChJ QK O‘zbekiston Respublikasidagi meva-sabzavot mahsulotlarini yetishtirish, qayta ishlash, konservalash, muzlatish va saqlashga ixtisoslashgan yirik qishloq xo‘jaligi xoldinglaridan biridir. Kompaniyada 300 kishi ishlaydi va biz odatda faol yig'im davrida xodimlar sonini 1000 nafarga oshiramiz."
+    },
+    "slide_two": {
+      "title": "Intensiv bog'lar",
+      "descr": "Bog'larning umumiy maydoni ~ 2000 ga. Tayyor bog'lar maydoni ~ 970 ga. Bog'lar boʻylab tomchilatib sug'orish. Shaftoli, olcha va gilos. Italiya va Gretsiyadan mevali daraxtlarning tijorat navlari. Virussiz ildizpoyasi - koʻchatlar virusli kasalliklarga chidamli"
+    },
+    "slide_three": {
+      "title": "«EAST AGRO INTERNATIONAL» MChJ",
+      "descr": "«EAST AGRO INTERNATIONAL» MChJ (Shahrisabz) ishlab chiqarish korxonasi negizida konserva mahsulotlari ishlab chiqarish agroxolding faoliyatining yetakchi yo‘nalishlaridan biridir. Korxonamizning ishlab chiqarish quvvati mavsumda 8 million qutiga yaqin. Konserva mahsulotlarini bankalar va shisha idishlarda ishlab chiqaramiz: siropdagi shaftoli yarmi, kornişonlar, pomidorlar, kornişonlar va pomidor (gilos) aralashmalari, shuningdek, murabbo aralashmalari, kompotlar, olma, shaftoli va o'rik pyuresi, tomat pastasi."
+    }
+  },
+  "notFound": {
+    "title": "404",
+    "sub": "Sahifa topilmadi",
+    "back": "Bosh sahifa"
+  },
+  "basket": {
+    "title": "Savat",
+    "empty": "Savat boʻsh",
+    "left-title": "Shaxsiy ma'lumotlar",
+    "lable-name": "Ism*",
+    "plc-name": "AbdulMalik",
+    "input-name": "Ismingizni kiriting",
+    "input-phone": "Telefon raqamingizni kiriting",
+    "input-payment": "Toʻlov usulini tanlang",
+    "lable-phone": "Telefon*",
+    "payment-title": "Toʻlov usuli",
+    "delivery-title": "Olib ketish",
+    "delivery-sub": "Yetkazib berish manzilini aniqlashtirish uchun telefon:",
+    "item-weight": "Og'irlik: {weight} KG",
+    "total-title": "Jami:",
+    "total-button": "Rasmiylashtirish",
+    "verify-title": "Tasdiqlash",
+    "verify-text": "Mobil raqamingizga yuborilgan 6 xonali kodni kiriting",
+    "verify-continue": "Davom etish",
+    "verify-retry": "Qayta yuborish"
+  },
+  "footer": {
+    "contact": "Aloqa uchun telefon",
+    "network": "Biz ijtimoiy tarmoqlarda",
+    "creator": "Barcha huquqlar himoyalangan"
+  },
+  "authJs": {
+    "sucSendCode": "Raqamingizga kod yuborildi!",
+    "errSendCode": "Kod yuborilmadi, qayta urinib koʻring!",
+    "sucOrder": "Buyurtmangiz qabul qilindi!",
+    "errCode": "Kod notoʻgʻri kiritildi!",
+    "errClient": "Avtorizatsiya xatosi, qayta urinib ko'ring!"
+  },
+  "products": {
+    "title": "Bizning mahsulotlarimiz",
+    "fresh": "Yangi mahsulotlar",
+    "frozen": "Muzlatilgan mahsulotlar",
+    "fresh_products": {
+      "sweet_pepper": "Shirin Qalampir",
+      "plum": "Olxoʻri",
+      "cayenne_pepper": "qizil qalampir",
+      "broccoli": "Brokkoli",
+      "brussels_sprouts": "Bryussel Karami",
+      "melon": "Qovun",
+      "figs": "anjir",
+      "onion": "Piyoz",
+      "сarrot": "Sabzi",
+      "cucumbers": "bodring",
+      "peach": "shaftoli",
+      "romanesco": "Ramanesko",
+      "cauliflower": "Rangli karam",
+      "cherry": "Gilos",
+      "spinach": "Ismaloq"
+    },
+    "frozen_products": {
+      "bulgarian_red": "Bolgar qizil",
+      "bell_pepper_cube": "bolgar qalampir kubigi",
+      "bell_pepper_strip": "bolgar qalampir choʻzinchoq",
+      "broccoli": "Brokkoli",
+      "brussels_sprouts": "Bryussel Karami",
+      "cherry": "Gilos",
+      "corn": "makkajo'xori",
+      "onion": "Piyoz",
+      "onion_cube": "piyoz kubi",
+      "carrot_cube": "sabzi kubi",
+      "peach": "shaftoli",
+      "peach_cube": "shaftoli kubi",
+      "sweet_pepper": "Shirin qalampir",
+      "plum": "olxo'ri",
+      "jandeau_asparagus": "jandeau qushqo'nmas",
+      "cauliflower": "rangli karam",
+      "cherries": "olcha"
+    }
+  }
+}
